@@ -7,7 +7,6 @@ function getAparelhoInfo(serial, modelo = "SEM_DADOS") {
             card = "1"
             vlan = 1000
             olt = "OLT-NOKIA-01"
-            pon = "1/1/1"
         } else {
             card = "14"
             vlan = 1000
